@@ -1,0 +1,10 @@
+{
+  "Name": "In-Game Recipe Menu for Mods",
+  "Author": "BethKitten",
+  "Version": "1.0.0",
+  "Description": "Provides an in-game menu to keep track of your different mod recipes.",
+  "UniqueID": "BethKitten.RecipeMenu",
+  "EntryDll": "RecipeMenu.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:3941" ]
+}

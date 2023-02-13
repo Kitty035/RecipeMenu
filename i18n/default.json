@@ -1,0 +1,9 @@
+{
+  // menu title
+  "title": "Mod Recipe Menu",
+
+  // menu tabs
+  "tabs.machines": "Machines",
+  "tabs.Recipes": "Recipes",
+  "tabs.add": "Add Task"
+}
